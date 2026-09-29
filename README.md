@@ -1,7 +1,11 @@
 # in-class-activities
-## Devlogs
+## devlog
+Michael Cornett
+
+
 ### W1
-Write your W1 activity Devlog here.
+1. The player's camera doesn't follow the cat. This happens because the camera is no longer parented to the cat object and doesn't inherit it's movement.
+2. [Game Link](https://mikebop.itch.io/in-class-assignment1)
 
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
