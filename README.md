@@ -8,7 +8,9 @@ Michael Cornett
 2. [Game Link](https://mikebop.itch.io/in-class-assignment1)
 
 ### W2
-Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
+1. The r, g, and b variables are floats instead of ints, bools, or strings because rgb values can go from 0 to 1.0 and float is meant for numbers utilizing decimals.
+2. The _bounce variable is an int type because it's only counting the raw number of bounces. 
+3. If I remember correctly the line didn't end with a semicolon which is required when ending statements in c#. (But I lowkey already forgot what happened during that step)
 
 ## Open-Source Assets
 ### W1
