@@ -24,6 +24,10 @@ Michael Cornett
 ## Activity 3
 1. I think the balls get extremely bright due to the color changing with its speed when it eventually goes "super sayian" after bouncing enough times.
 
+## Activity 4
+1. I added a rigid body to both the cat and ball. I also enabled trigger on the goal because the goal needed to detect when the ball object passed through so it could score the goal.
+2. My _goalVfx.Play(); wasn't working but then I realized I needed to put it in the MadeGoal() Method.
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
