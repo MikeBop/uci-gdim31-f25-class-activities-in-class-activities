@@ -28,6 +28,11 @@ Michael Cornett
 1. I added a rigid body to both the cat and ball. I also enabled trigger on the goal because the goal needed to detect when the ball object passed through so it could score the goal.
 2. My _goalVfx.Play(); wasn't working but then I realized I needed to put it in the MadeGoal() Method.
 
+## Activity 6(week 5 activity)
+1. We would need a navmesh, animator, and transform object member variables for the DeerW5 class.
+2. We would use the Start() and SetDestination() methods.
+3. Start would call the navmeshes built in setdestination method and pass the targets position to have the deer move to the location.
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
